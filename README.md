@@ -62,3 +62,4 @@ flowchart LR
 ## 🚀 Step-by-Step Deployment Guide
 
 See the walkthrough guide for the complete checklist to configure AWS EC2, GitHub Secrets, and run the pipeline live today.
+# CI/CD deployment test
